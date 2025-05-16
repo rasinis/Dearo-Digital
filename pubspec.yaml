@@ -1,0 +1,69 @@
+name: dearo_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_custom_clippers: ^2.1.0
+  convex_bottom_bar: ^3.0.0
+  google_nav_bar: ^5.0.7
+  provider: ^6.0.0
+  file_picker: ^8.1.4
+  intl_phone_field: ^3.0.1
+  url_launcher: ^6.1.7
+  http: ^1.2.1
+  session_manager: 0.0.4
+  shared_preferences: ^2.1.0
+  intl: ^0.18.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/bg_gs.png
+    - assets/bg.png
+    - assets/login.jpg
+    - assets/register.png
+    - assets/forgotpassword.jpg
+    - assets/logo.png
+    - assets/register_new.png 
+    - assets/verification_bg.jpg
+    - assets/reset_password_bg.jpg
+    - assets/lease.png
+    - assets/investment.jpg
+    - assets/insuarance.png
+    - assets/gold_loan.webp
+    - assets/lease_car.jpg
+    - assets/investment.png
+    - assets/gold_loan.jpg
+    - assets/inquiry_process.jpg
+    - assets/upload_vehicle_image.jpg
+    - assets/upload_vehicle_image2.jpg
+    - assets/guarantor details.jpg
+    - assets/start_inquiry.jpg
+    - assets/lease_home.jpg
+    - assets/investment_home.jpg
+    - assets/gold_loan_home.jpg
+    - assets/dearo_logo.webp
+    - assets/loan.jpg
+
+
+
+
+
+    
