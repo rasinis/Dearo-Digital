@@ -12,7 +12,7 @@ class AboutUsPage extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.black,
         body: Padding(
           padding: const EdgeInsets.all(16.0),
           child: Column(
